@@ -2,3 +2,5 @@
  these is 1st commit on feature 1
 
 these is 2nd feature added on feature 1
+
+these is 3rd feature added on feature 1
